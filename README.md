@@ -24,29 +24,6 @@ I’m passionate about creating **user-centered digital experiences** by combini
 
 ---
 
-## 🚀 Relevant Projects
-
-### **Pokedex Web App**
-- Built a full‑fledged Pokédex application using **React, Tailwind CSS, React Router, and Zustand**  
-- Integrated with a public **Pokémon API**: users can browse, search, filter, and view detailed Pokémon information  
-- Emphasized **clean code architecture**: reusable components, separation between UI & logic, and maintainable state management  
-
-### **React Movie Explorer App**
-- Developed a modern, responsive movie browsing interface using **React.js** based on a tutorial by **JavaScript Mastery**  
-- Implemented features such as **movie listing, dynamic search**, and trending/popular movie fetching via API  
-- Practiced **UI/UX design**, responsive layout with Tailwind CSS, and project structure for scalability  
-
-### **Drum-Kit Web App**
-- Interactive web application mapping **keyboard inputs to drum sounds**  
-- Practiced **DOM events, audio handling**, and **interactive UI behavior** using vanilla JavaScript  
-
-### **Anime Search App**
-- Lightweight search application using **HTML, CSS, JavaScript**  
-- Integrated **Anime API** to allow users to look up anime titles  
-- Practiced **DOM manipulation, API fetching**, and dynamic content rendering before moving to React  
-
----
-
 ## 📚 Current Learning & Bootcamp Progress
 
 I’m currently enhancing my **Full-Stack Development skills** with a structured Bootcamp, covering:  
