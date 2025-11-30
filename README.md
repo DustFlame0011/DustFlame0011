@@ -1,4 +1,4 @@
-# 🥑 Hi, I'm DustFlame 🌱
+# 🥑 Hi, I'm DustFlame 
 
 **Multilingual professional** with 7+ years of international experience in **customer experience, digital marketing, and QA/game localization**, now transitioning into **UX/UI Design** and **Frontend Development**.  
 
