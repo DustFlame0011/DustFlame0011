@@ -2,7 +2,7 @@
 
 I recently completed a **Full-Stack Development Bootcamp**, gaining hands-on experience in building modern web applications with a focus on both frontend and backend development.
 
-My technical foundation includes working with **React.js, TypeScript, Node.js, RESTful APIs, and SQL databases**, along with applying best practices in application structure, authentication, and data handling. I am especially interested in building clean, maintainable systems that connect thoughtful UI with reliable backend logic.
+My technical foundation includes working with **React.js, TypeScript, Node.js, RESTful APIs, MongoDB and SQL databases**, along with applying best practices in application structure, authentication, and data handling. I am especially interested in building clean, maintainable systems that connect thoughtful UI with reliable backend logic.
 
 While I bring prior professional experience from international and cross-functional environments, I am now fully focused on starting my career as a **Junior Full-Stack / Backend Developer**, continuously learning and improving through real-world projects.
 
@@ -26,6 +26,7 @@ While I bring prior professional experience from international and cross-functio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
 
 ### 🧩 Backend
 
@@ -35,15 +36,11 @@ While I bring prior professional experience from international and cross-functio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=database\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=whit###) 
+![Google Auth](https://img.shields.io/badge/Google%20Auth-OAuth2-4285F4?style=flat-square&logo=google)
 
 ### 🛠 Tools
 ![Railway](https://img.shields.io/badge/Railway.app-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
----
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
