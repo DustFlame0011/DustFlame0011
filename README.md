@@ -1,91 +1,98 @@
-# 🥑 Hi, I'm DustFlame
+# Hi, I'm Sukumal 👋
 
-I recently completed a **Full-Stack Development Bootcamp**, gaining hands-on experience in building modern web applications with a focus on both frontend and backend development.
+**Technical Product Manager in Progress** — I bridge the gap between user problems, business outcomes, and engineering delivery.
 
-My technical foundation includes working with **React.js, TypeScript, Node.js, RESTful APIs, MongoDB and SQL databases**, along with applying best practices in application structure, authentication, and data handling. I am especially interested in building clean, maintainable systems that connect thoughtful UI with reliable backend logic.
+With 7+ years in cross-functional roles across global technology platforms (Google, Esports Game, Activision Blizzard), I've spent my career sitting at the exact friction points that product teams exist to solve: payment failures, onboarding drop-offs, escalation loops, and user experience gaps. Now I'm building the technical foundation to own those solutions — not just escalate around them.
 
-While I bring prior professional experience from international and cross-functional environments, I am now fully focused on starting my career as a **Junior Full-Stack / Backend Developer**, continuously learning and improving through real-world projects.
-
----
-
-## 🧠 Background
-
-* 7+ years working in international and cross-functional environments
-* Experience collaborating with developers, designers, and product teams
-* Strong communication skills across technical and non-technical stakeholders
+I'm currently developing hands-on full-stack skills to complement my operational and analytical background, with the goal of becoming a **Technical PM** who can read code, write specs, and ship products with engineering teams.
 
 ---
 
-## 🏷️ Tech Stack & Tools
+## 🎯 What I'm Building Toward
 
-### 🎨 Frontend & UI
+```
+Customer Operations & Data Analytics
+          +
+  Full-Stack Development Skills
+          +
+  IT Management (M.Sc. — Planned)
+          ↓
+  Technical Product Manager
+  focused on Fintech & Digital Platforms
+```
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+---
+
+## 🧠 Product Thinking Background
+
+- **Payment & merchant operations** — 4+ years supporting Google Ads, Google Merchant Center, and Google Analytics across SEA; hands-on exposure to transaction flows, billing escalations, and merchant onboarding friction
+- **User behaviour analysis** — Identified and documented recurring product pain points at Google and Riot Games, translating user-reported issues into structured insights for product and engineering teams
+- **Cross-functional delivery** — Coordinated between development, QA, localisation, and operations teams at Activision Blizzard on multi-title release cycles
+- **Data-driven decision making** — Google Data Analytics, Google Business Intelligence, and IBM AI/Data Science certifications applied in live operational contexts
+
+---
+
+## 📦 Featured Projects
+
+### 🏠 [Property Management Dashboard](https://github.com/DustFlame0011/Dashboard-MERN)
+
+> A full-stack MERN admin dashboard for real estate operations — built to practice translating business metrics into product interfaces.
+
+**Problem it solves:** Property management teams lack a centralised view of their portfolio performance. This dashboard consolidates sales listings, rental inventory, city distribution, revenue tracking, and referral sources into a single operational interface.
+
+**What makes it a PM project, not just a dev project:**
+The Property module is fully connected to a live MongoDB database with complete CRUD operations via RESTful API. The dashboard overview demonstrates how to structure KPI cards and chart visualisations that a real operations team would actually use.
+
+| Layer | Stack |
+|---|---|
+| Frontend | React.js · TypeScript · Refine Framework · Material UI |
+| Backend | Node.js · Express.js · RESTful API |
+| Database | MongoDB (Mongoose) |
+| Auth | Google OAuth 2.0 |
+
+🎬 [View Demo](https://github.com/DustFlame0011/Dashboard-MERN)
+
+---
+
+## 🛠 Technical Stack
+
+I'm building technical fluency specifically to communicate better with engineering teams and evaluate product feasibility firsthand.
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
 
-### 🧩 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=database\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=whit###) 
-![Google Auth](https://img.shields.io/badge/Google%20Auth-OAuth2-4285F4?style=flat-square&logo=google)
 
-### 🛠 Tools
-![Railway](https://img.shields.io/badge/Railway.app-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+### Product & Analytics Tools
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧪 Backend Knowledge & Experience (Completed)
+## 🌏 Industry Context
 
-I have completed backend-focused training and hands-on practice covering:
+I've worked across **gaming, digital advertising, and customer operations** in Southeast Asia - giving me a practical understanding of how users in Thailand, Malaysia, Singapore, and the Philippines interact with digital products, payment systems, and support touchpoints.
 
-* **RESTful API development** using Node.js
-* **Authentication & Authorization** (JWT-based login, protected routes, role-based access)
-* **Database design & CRUD operations** with SQL and NoSQL databases
-* **Input validation & error handling** for stable and secure APIs
-* **Basic backend security practices** (password hashing, access control)
-* **API integration with frontend applications**
-
-I am comfortable explaining backend flows such as:
-
-```
-Client → API → Service / Logic → Database → Response
-```
+This regional fluency, combined with full-stack development skills and product thinking, is what I bring to Technical PM roles in fintech, digital platforms, and innovation-focused teams.
 
 ---
 
-## 📚 Full-Stack Learning & Practice
+## 📫 Let's Connect
 
-Through a structured Full-Stack learning path, I have worked on:
-
-* Advanced **JavaScript & TypeScript** concepts
-* **React.js** and frontend architecture
-* **Node.js backend development** and REST APIs
-* **Database integration** (Appwrite, MongoDB, SQL)
-* Small-to-medium **full-stack projects** connecting frontend and backend
-
-> 🎯 Goal: Become a **Frontend / Full-Stack Developer** with strong UI/UX sensibilities and solid backend fundamentals.
+- 💼 [LinkedIn — linkedin.com/in/sukumal-p](https://www.linkedin.com/in/sukumal-p/)
+- 🎨 [Behance — behance.net/sukumalp](https://www.behance.net/sukumalp)
+- 🐙 [GitHub — github.com/DustFlame0011](https://github.com/DustFlame0011)
 
 ---
 
-## 📫 Connect with Me
-
-* GitHub: [github.com/DustFlame0011](https://github.com/DustFlame0011)
-* LinkedIn: [linkedin.com/in/sukumal-p](https://www.linkedin.com/in/sukumal-p/)
-
----
-
-### ✨ Fun Fact
-
-With experience working in **game companies**, I enjoy translating **game design thinking, player behavior, and interaction flow** into engaging and intuitive **web experiences**.
+*"The best product people I've met weren't the ones who knew the most - they were the ones who asked the right questions and stayed close to the user."*
