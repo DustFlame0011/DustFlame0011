@@ -34,6 +34,40 @@ Customer Operations & Data Analytics
 
 ## 📦 Featured Projects
 
+---
+
+### 📋 [PRD Library — Fintech & Payment Products](https://github.com/DustFlame0011/prd-fintech-payment-library)
+
+> A portfolio of end-to-end Product Requirements Documents for fintech payment platform features — including interactive wireframes, acceptance criteria, and PM annotations. Built to demonstrate product thinking, technical fluency, and domain expertise in payments.
+
+**Why this project exists:**
+After 4+ years supporting Google Merchant Center, Google Ads, and payment operations across SEA, I wrote the PRDs I wish had existed when merchants were struggling with onboarding friction, chargeback confusion, and silent payment failures. Each document is grounded in real operational experience — not textbook theory.
+
+**What's inside:**
+
+| Feature | Deliverables | Domain |
+|---------|-------------|--------|
+| [Merchant Onboarding Flow](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/01-merchant-onboarding/PRD.md) | PRD · User Stories · Acceptance Criteria · [Interactive Wireframe](https://merchant-onboarding-wirframe.vercel.app/) | KYC · Payments |
+| [Chargeback Dispute System](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/02-chargeback-dispute/PRD.md) | PRD · Evidence Matrix · Reason Code Reference · [Interactive Wireframe](https://chargeback-dispute-wireframe.vercel.app/) | Risk · Compliance |
+| [Payment Retry Logic](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/03-payment-retry-logic/PRD.md) | PRD · Decline Code Matrix · Webhook Spec · State Machine · [Interactive Wireframe](https://payment-retry-wireframe.vercel.app/) | Core Payments |
+
+**What makes these PM documents, not just spec templates:**
+- All metrics and baselines are grounded in real operational context (e.g. 40% onboarding drop-off, ~380 chargeback support tickets/month)
+- Acceptance criteria written in Given/When/Then format — directly usable by QA teams
+- Edge cases documented from real escalation scenarios handled in merchant support
+- Webhook payload contracts defined from the developer's perspective, not just the UI layer
+- References sourced from Visa official guidelines, PCI DSS standards, and Bank of Thailand regulations — all cited in [`REFERENCES.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/REFERENCES.md)
+
+| Layer | Artifact |
+|-------|---------|
+| Product Strategy | Problem statements · Goals & success metrics · User personas |
+| Requirements | Functional requirements · Non-functional requirements · Compliance constraints |
+| UX | Interactive HTML wireframes with PM annotations per screen |
+| Engineering Handoff | Acceptance criteria · Webhook specs · API contract definitions · State machines |
+| Research | Source-cited reference library (Visa, Mastercard, PCI DSS, BOT) |
+
+---
+
 ### 🏠 [Property Management Dashboard](https://github.com/DustFlame0011/Dashboard-MERN)
 
 > A full-stack MERN admin dashboard for real estate operations — built to practice translating business metrics into product interfaces.
