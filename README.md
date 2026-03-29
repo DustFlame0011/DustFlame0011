@@ -1,123 +1,76 @@
 # Hi, I'm Sukumal 👋
 
-**Technical Product Manager in Progress** — I bridge the gap between user problems, business outcomes, and engineering delivery.
-
-With 7+ years in cross-functional roles across global technology platforms (Google, Esports Game, Activision Blizzard), I've spent my career sitting at the exact friction points that product teams exist to solve: payment failures, onboarding drop-offs, escalation loops, and user experience gaps. Now I'm building the technical foundation to own those solutions — not just escalate around them.
-
-I'm currently developing hands-on full-stack skills to complement my operational and analytical background, with the goal of becoming a **Technical PM** who can read code, write specs, and ship products with engineering teams.
+**I'm learning how AI works - so I can apply it to real business and product problems.**
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🔬 Currently Learning
 
-```
-Customer Operations & Data Analytics
-          +
-  Full-Stack Development Skills
-          +
-  IT Management (M.Sc. — Planned)
-          ↓
-  Technical Product Manager
-  focused on Fintech & Digital Platforms
-```
+| Area | What I'm focusing on |
+|------|----------------------|
+| **Machine Learning** | Supervised learning, model evaluation, scikit-learn, pandas — learning to go from data to insight |
+| **Deep Learning** | Neural network fundamentals, architectures, how models actually learn |
+| **LLMs & Prompt Engineering** | How large language models reason, fail, and can be directed — practically and mechanically |
+
+My learning filter: *does this connect to a problem I've seen in the real world?*
 
 ---
 
-## 🧠 Product Thinking Background
-
-- **Payment & merchant operations** — 4+ years supporting Google Ads, Google Merchant Center, and Google Analytics across SEA; hands-on exposure to transaction flows, billing escalations, and merchant onboarding friction
-- **User behaviour analysis** — Identified and documented recurring product pain points at Google and Riot Games, translating user-reported issues into structured insights for product and engineering teams
-- **Cross-functional delivery** — Coordinated between development, QA, localisation, and operations teams at Activision Blizzard on multi-title release cycles
-- **Data-driven decision making** — Google Data Analytics, Google Business Intelligence, and IBM AI/Data Science certifications applied in live operational contexts
-
----
-
-## 📦 Featured Projects
+## 📦 Projects
 
 ---
 
 ### 📋 [PRD Library — Fintech & Payment Products](https://github.com/DustFlame0011/prd-fintech-payment-library)
+> Product documents grounded in real operational experience - written to think through AI-adjacent problems in payments.
 
-> A portfolio of end-to-end Product Requirements Documents for fintech payment platform features — including interactive wireframes, acceptance criteria, and PM annotations. Built to demonstrate product thinking, technical fluency, and domain expertise in payments.
+These PRDs cover the exact failure modes where AI is being applied: merchant onboarding drop-off, chargeback dispute resolution, and intelligent payment retry logic. Written with acceptance criteria, webhook specs, state machines, and compliance references (Visa, PCI DSS, Bank of Thailand).
 
-**Why this project exists:**
-After 4+ years supporting Google Merchant Center, Google Ads, and payment operations across SEA, I wrote the PRDs I wish had existed when merchants were struggling with onboarding friction, chargeback confusion, and silent payment failures. Each document is grounded in real operational experience — not textbook theory.
-
-**What's inside:**
-
-| Feature | Deliverables | Domain |
-|---------|-------------|--------|
-| [Merchant Onboarding Flow](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/01-merchant-onboarding/PRD.md) | PRD · User Stories · Acceptance Criteria · [Interactive Wireframe](https://merchant-onboarding-wirframe.vercel.app/) | KYC · Payments |
-| [Chargeback Dispute System](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/02-chargeback-dispute/PRD.md) | PRD · Evidence Matrix · Reason Code Reference · [Interactive Wireframe](https://chargeback-dispute-wireframe.vercel.app/) | Risk · Compliance |
-| [Payment Retry Logic](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/03-payment-retry-logic/PRD.md) | PRD · Decline Code Matrix · Webhook Spec · State Machine · [Interactive Wireframe](https://payment-retry-wireframe.vercel.app/) | Core Payments |
-
-**What makes these PM documents, not just spec templates:**
-- All metrics and baselines are grounded in real operational context (e.g. 40% onboarding drop-off, ~380 chargeback support tickets/month)
-- Acceptance criteria written in Given/When/Then format — directly usable by QA teams
-- Edge cases documented from real escalation scenarios handled in merchant support
-- Webhook payload contracts defined from the developer's perspective, not just the UI layer
-- References sourced from Visa official guidelines, PCI DSS standards, and Bank of Thailand regulations — all cited in [`REFERENCES.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/REFERENCES.md)
-
-| Layer | Artifact |
-|-------|---------|
-| Product Strategy | Problem statements · Goals & success metrics · User personas |
-| Requirements | Functional requirements · Non-functional requirements · Compliance constraints |
-| UX | Interactive HTML wireframes with PM annotations per screen |
-| Engineering Handoff | Acceptance criteria · Webhook specs · API contract definitions · State machines |
-| Research | Source-cited reference library (Visa, Mastercard, PCI DSS, BOT) |
-
----
-
-### 🏠 [Property Management Dashboard](https://github.com/DustFlame0011/Dashboard-MERN)
-
-> A full-stack MERN admin dashboard for real estate operations — built to practice translating business metrics into product interfaces.
-
-**Problem it solves:** Property management teams lack a centralised view of their portfolio performance. This dashboard consolidates sales listings, rental inventory, city distribution, revenue tracking, and referral sources into a single operational interface.
-
-**What makes it a PM project, not just a dev project:**
-The Property module is fully connected to a live MongoDB database with complete CRUD operations via RESTful API. The dashboard overview demonstrates how to structure KPI cards and chart visualisations that a real operations team would actually use.
-
-| Layer | Stack |
-|---|---|
-| Frontend | React.js · TypeScript · Refine Framework · Material UI |
-| Backend | Node.js · Express.js · RESTful API |
-| Database | MongoDB (Mongoose) |
-| Auth | Google OAuth 2.0 |
-
-🎬 [View Demo](https://github.com/DustFlame0011/Dashboard-MERN)
+| Feature | Why it's AI-relevant |
+|---------|----------------------|
+| [Merchant Onboarding Flow](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/01-merchant-onboarding/PRD.md) · [Wireframe](https://merchant-onboarding-wirframe.vercel.app/) | Onboarding friction is where ML-powered KYC and risk scoring operates |
+| [Chargeback Dispute System](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/02-chargeback-dispute/PRD.md) · [Wireframe](https://chargeback-dispute-wireframe.vercel.app/) | Dispute pattern recognition is a core use case for classification models |
+| [Payment Retry Logic](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/03-payment-retry-logic/PRD.md) · [Wireframe](https://payment-retry-wireframe.vercel.app/) | Retry optimisation is increasingly ML-driven, not rule-based |
 
 ---
 
 ## 🛠 Technical Stack
-
-I'm building technical fluency specifically to communicate better with engineering teams and evaluate product feasibility firsthand.
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+ 
+**Backend & Infrastructure**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### Product & Analytics Tools
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+ 
+**AI / ML — Learning**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs_%26_Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
+ 
+**Data & Analytics**
+ 
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Looker](https://img.shields.io/badge/Google_BI-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_AI_%26_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+ 
+**Product & Design**
+ 
+![Figma](https://img.shields.io/badge/Figma-1A1A2E?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌏 Industry Context
-
-I've worked across **gaming, digital advertising, and customer operations** in Southeast Asia - giving me a practical understanding of how users in Thailand, Malaysia, Singapore, and the Philippines interact with digital products, payment systems, and support touchpoints.
-
-This regional fluency, combined with full-stack development skills and product thinking, is what I bring to Technical PM roles in fintech, digital platforms, and innovation-focused teams.
 
 ---
 
@@ -129,4 +82,4 @@ This regional fluency, combined with full-stack development skills and product t
 
 ---
 
-*"The best product people I've met weren't the ones who knew the most - they were the ones who asked the right questions and stayed close to the user."*
+*Learning how the technology works. Applying it to problems worth solving.*
