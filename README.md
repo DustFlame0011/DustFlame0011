@@ -1,6 +1,6 @@
 ## Hi, I'm Sukumal 👋
 
-**I'm diving deep into Data Science & AI — currently in a bootcamp, and building real projects along the way to turn learning into practical, usable skills.**
+**I'm diving deep into Data Science & AI - currently in a bootcamp, and building real projects along the way to turn learning into practical, usable skills.**
 
 ---
 
@@ -8,9 +8,9 @@
 
 | Area | What I'm focusing on |
 |------|----------------------|
-| **Machine Learning** | Supervised learning, model evaluation, scikit-learn, pandas — learning to go from data to insight |
+| **Machine Learning** | Supervised learning, model evaluation, scikit-learn, pandas - learning to go from data to insight |
 | **Deep Learning** | Neural network fundamentals, architectures, how models actually learn |
-| **LLMs & Prompt Engineering** | How large language models reason, fail, and can be directed — practically and mechanically |
+| **LLMs & Prompt Engineering** | How large language models reason, fail, and can be directed - practically and mechanically |
 
 My learning filter: *does this connect to a problem I've seen in the real world?*
 
